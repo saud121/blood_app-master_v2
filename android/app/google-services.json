@@ -1,0 +1,64 @@
+{
+  "project_info": {
+    "project_number": "564208528978",
+    "firebase_url": "https://bloodapp-e55c0.firebaseio.com",
+    "project_id": "bloodapp-e55c0",
+    "storage_bucket": "bloodapp-e55c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564208528978:android:b0bea8badb4005fdb1f98b",
+        "android_client_info": {
+          "package_name": "com.gil.blood_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564208528978-ga8rlmll2r51ojmrol2un98spggsct0p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gil.blood_app",
+            "certificate_hash": "3076f377e500d3cd1198a40845f040225c762f15"
+          }
+        },
+        {
+          "client_id": "564208528978-jr7epqe9vcmmojsopmsfo02aulkptmt4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gil.blood_app",
+            "certificate_hash": "315efc260c48e4785cbd214c8fc90205b4f33863"
+          }
+        },
+        {
+          "client_id": "564208528978-mp8kg9sg35mdd5a44dhp0nelom6jde7a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gil.blood_app",
+            "certificate_hash": "9fb8911117b4c41f6d255132e72d00983e68c9f7"
+          }
+        },
+        {
+          "client_id": "564208528978-g4lhv8llam0o8mo0hbkn7gq4uc2muc4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe_yhesVXbfGjgaNo1hPa2tXQ5yxYogIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564208528978-g4lhv8llam0o8mo0hbkn7gq4uc2muc4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
